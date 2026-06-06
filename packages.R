@@ -1,0 +1,24 @@
+# Run this file first to install all required packages
+install.packages(c(
+  "data.table",
+  "readxl",
+  "dplyr",
+  "cluster",
+  "factoextra",
+  "ggplot2",
+  "tidyr",
+  "forcats",
+  "tibble",
+  "fastDummies",
+  "FactoMineR",
+  "clustMixType",
+  "reshape2",
+  "tidyverse",
+  "ggfortify",
+  "knitr",
+  "rmarkdown",
+  "lubridate",
+  "scales",
+  "forecast",
+  "randomForest"
+))

@@ -1,0 +1,15 @@
+# Data files (không commit dữ liệu thực tế)
+data/
+*.xlsx
+*.xls
+*.csv
+
+# R temp files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
+Thumbs.db
