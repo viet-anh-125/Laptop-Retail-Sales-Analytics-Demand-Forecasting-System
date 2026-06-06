@@ -36,7 +36,7 @@ library(knitr)
 library(rmarkdown)
 
 #2. Đọc dữ liệu
-df <- read_excel("D:/DataLapDesk.xlsx")
+df <- read_excel("data/DataLapDesk.xlsx")
 head(df) # Xuất 6 dòng dữ liệu đầu tiên
 
 #3. Làm sạch dữ liệu (nếu cần)
